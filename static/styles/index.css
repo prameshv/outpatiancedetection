@@ -1,0 +1,33 @@
+.navbar{
+    color: aliceblue;
+}
+.navbar-brand{
+    font-family: cursive;
+    font-weight: bolder;
+}
+.navbar-splitter{
+    padding-left: 35px;
+}
+.nav-item{
+    padding-left: 20px;
+}
+.nav-item a{
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: aliceblue;
+    color: inherit;
+}
+.content{
+    font-weight: 600;
+    text-align: center;
+}
+.input-form{
+    text-align: center;
+    align-self:center;
+}
+.result{
+    padding-top: 40px;
+    padding-bottom: 40px;
+    text-align: center;
+    font-weight: 700;
+
+}
